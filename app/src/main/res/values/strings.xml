@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">My City </string>
+    <string name="resturant">Resturant</string>
+    <string name="cofee_Shops">Cofee Shops</string>
+    <string name="Parks">Parks</string>
+    <string name="shopping_malls">Shopping Malls</string>
+    <string name="arbian_cheff">Arabian Chef:</string>
+    <string name="eat_onn">Eat Onn:</string>
+    <string name="nawab_royal">Nawab Royal:</string>
+    <string name="alaska">Alaska Hotel:</string>
+    <string name="royal_dera">Royal Dera:</string>
+    <string name="chilli_chuttni">Chilli Chutney:</string>
+    <string name="kirana_bar">Kirana Bar:</string>
+    <string name="rehmat_ullil_Alamin">Rehmat  ullil Alamin Park</string>
+    <string name="Tiwana">Tiwana Park</string>
+    <string name="joyland">Joyland Park</string>
+    <string name="jinnah">Jinnah Park</string>
+    <string name="old_civil_lines">Old Civil Lines Park</string>
+    <string name="model_mart">Model Mart Park</string>
+    <string name="starbucks">Starbucks</string>
+    <string name="barista">Barista</string>
+    <string name="indian_cafe_house">Indian Cafe House</string>
+    <string name="heebee">Heebee Cafe</string>
+    <string name="fat_tiger">Fat Tiger</string>
+    <string name="tim_hortons">Tim Hortons</string>
+    <string name="imtiaz_mall">Imtiaz Mall</string>
+    <string name="modern_shopping_mall">Modern Shopping Mall</string>
+    <string name="burj_huraira">Burj Huraira</string>
+    <string name="burj_ismail">Burj Ismail</string>
+    <string name="chen_one_tower">Chen One Tower</string>
+    <string name="xin_mall">Xin Mall</string>
+    <string name="back_button">Back Button</string>
+<!---Resturants Description-->
+    <string name="arbian_chef_des">Arabian Chef Sargodha is a popular restaurant known for its authenticArabian and Middle Eastern cuisine, including dishes like shawarma, kebabs, and falafel.It has garnered positive reviews for its flavorful food and vibrant atmosphere.The restaurant is located in Sargodha, Pakistan, on University Road, near Khayyam Chowk.</string>
+    <string name="eat_onn_des">Eat Onn Sargodha is a well-known restaurant offering a variety of cuisines, including Pakistani, Chinese, and Continental dishes.It\'s praised for its vibrant atmosphere and high-quality food, making it a popular spot for both locals and visitors.The restaurant is located at Qainchi Mor, Faisalabad Road, Sargodha, Pakistan.
+    </string>
+    <string name="nawab_royal_des">Nawab Royal Restaurant in Sargodha is known for its luxurious dining experience and diverse menu, featuring both traditional Pakistani and international cuisines.It is a popular choice for family gatherings and special occasions due to its elegant ambiance and exceptional service.The restaurant is located on Khayaban-e-Shahbaz Road in Sargodha.</string>
+    <string name="alaska_des">Alaska Sargodha is well-known for its diverse menu featuring both local and international cuisines.The restaurant is praised for its elegant ambiance, friendly service, and high-quality food. Specialties often include a variety of grilled dishes and seafood.Alaska Sargodha is located at Katchery Road, Sargodha, Pakista
+    </string>
+    <string name="royal_dera_des">Royal Dera is known for its traditional Pakistani cuisine, offering a rich variety of dishes that reflect the local flavors.The restaurant is particularly praised for its delicious BBQ items and authentic curries.The ambiance is designed to reflect the cultural heritage, making it a popular spot for family gatherings and special occasions.Royal Dera is located on Sargodha-Lahore Road, Sargodha, Pakistan.</string>
+    <string name="chilli_chuttni_des">Chilli Chuttny Sargodha is known for its flavorful Pakistani and Indian cuisine, particularly its spicy chutneys and rich curries.It has garnered a reputation for providing a vibrant dining experience with a variety of dishes that cater to both traditional and contemporary tastes.The restaurant is a popular spot for both locals and visitors looking to enjoy authentic and delicious meals.Sargodha, Pakistan</string>
+    <string name="kirana_bar_des">Kirana Bar in Sargodha is renowned for its vibrant ambiance and delectable local cuisine.It is a popular spot for both locals and visitors looking to enjoy traditional Pakistani dishes in a lively setting.The restaurant is also known for its friendly service and inviting atmosphere.Kirana Bar is located on Jail Road, Sargodha, making it easily accessible for those in the city.</string>
+    <!--Parks Description-->
+    <string name="rehmat_ullil_Alamin_des1">Rehmat Ullil Alamin Park in Sargodha is a popular recreational spot located near Khayaban-e-Shamsher.The park offers a serene environment with lush greenery, walking tracks, and various amenities for families and visitors to enjoy outdoor activities and relaxation.</string>
+    <string name="Tiwana_des1">Tiwana Park is located in Sargodha, Punjab, Pakistan. It is situated on the outskirts of the city, near the Tiwana Road area.The park offers a serene environment and is a popular spot for relaxation and family outings.</string>
+    <string name="joyland_des1">Joy land Park in Sargodha is located on Main Pindi Road, close to the city center. It’s a popular recreational spot offering various rides and attractions for families and children.The park is known for its pleasant atmosphere and is a great place for a fun day out.</string>
+    <string name="jinnah_des1">Jinnah Park in Sargodha is located on Sargodha-Khushab Road, near the city center. It’s a prominent park that offers green spaces and recreational areas for families and visitors.It’s a popular spot for relaxation and community events in Sargodha.</string>
+    <string name="old_civil_lines_des1">Old Civil Lines Park in Sargodha is located in the Civil Lines area, close to the central part of the city.It is situated near the Old Civil Lines locality, which is well-connected and easily accessible from various parts of Sargodha.The park provides a green space and recreational area for residents and visitors.</string>
+    <string name="model_mart_des1">Model Mart Park in Sargodha is located on the main Gulistan Road.It’s a popular spot in the city, offering a spacious area with green lawns and recreational facilities for visitors.The park is well-known for its clean environment and family-friendly atmosphere.</string>
+<!---Cofee Description-->
+    <string name="starbucks_des2">Starbucks in Sargodha is located at the main commercial area of the city, often found in prominent shopping centers or high-traffic locations.
+        You might want to check local directories or maps for the exact address, as these can change frequently.</string>
+    <string name="barista_des2">Barista Coffee Shop in Sargodha is located at 2nd Floor, Millennium Mall, near Chowk Miani, Sargodha.
+        It offers a cozy atmosphere and a variety of coffee and snacks.</string>
+    <string name="indian_cafe_house_des2">Indian Cafe Coffee Shop in Sargodha is located on Jail Road, a central area in the city.
+        It’s a popular spot known for its relaxed ambiance and diverse menu of coffee and snacks.
+        The cafe is situated near the bustling commercial district, making it easily accessible for both locals and visitors.</string>
+    <string name="heebee_des2">Hebee Cafe is located in Sargodha, situated on Thokar Niaz Baig Road.
+        It\'s a popular spot for coffee and light snacks, offering a cozy atmosphere for visitors.
+        If you’re in the area, it’s a great place to relax and enjoy a cup of coffee.</string>
+    <string name="fat_tiger_des2">Fat Tiger Cafe is located in Sargodha\'s vibrant city center.
+        It’s situated on University Road, a popular area known for its variety of eateries and shops.
+        The cafe offers a cozy ambiance with a range of coffee and light snacks.</string>
+    <string name="tim_hortons_des2">Tim Hortons Café in Sargodha is located on Main Jhang Road, near Sargodha Medical College.
+        It\'s a popular spot for coffee and casual dining, offering the signature Tim Hortons experience in the heart of the city.</string>
+<!--Malls Description-->
+    <string name="imtiaz_mall_description">Imtiaz Mall Sargodha is situated on M2 Motorway, near the Sargodha Bypass.</string>
+    <string name="modern_shopping_mall_description">The Modern Shopping Mall in Sargodha is located on Satellite Town\'s main boulevard.</string>
+    <string name="burj_huraira_description">Burj Huraira Shopping Mall is situated in the heart of Sargodha, on Faisalabad Road.</string>
+    <string name="burj_ismail_description">Burj Ismail Shopping Mall is located on University Road in Sargodha, Pakistan.
+    </string>
+    <string name="chen_one_tower_description">Chen One Tower is a prominent shopping mall located on Sargodha\'s main commercial artery Situated on Main Road.</string>
+    <string name="xin_mall_description">Xin Mall is a prominent shopping destination in Sargodha, located on Sheikhupura Road.</string>
+
+
+</resources>
